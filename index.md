@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Minhanh's Profile
 
 You can use the [editor on GitHub](https://github.com/Minhanh-Le/profile2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
